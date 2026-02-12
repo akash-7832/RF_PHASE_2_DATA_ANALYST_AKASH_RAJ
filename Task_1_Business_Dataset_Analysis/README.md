@@ -15,3 +15,9 @@ Chocolate Sales Dataset
 ### Outcome
 A clean dataset ready for analysis and insights.
 
+### Business Questions Answered
+1. Which country generated the highest sales?
+2. Which product has the highest revenue?
+3. Monthly sales trend analysis
+4. Top performing salespersons
+5. Average sales per country
