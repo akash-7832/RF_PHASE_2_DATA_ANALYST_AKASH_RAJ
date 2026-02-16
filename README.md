@@ -115,5 +115,3 @@ Through these tasks, I gained hands-on experience in:
 * Building dashboards for business users
 * Presenting insights clearly and logically
 
-match exactly your folder names**
-* Help you write a **safe LinkedIn caption** based on this README
